@@ -8,8 +8,6 @@ __pycache__/
 *.egg-info/
 .venv/
 venv/
-.env
-.env.local
 backend/.env
 backend/.env.local
 backend/.env*.local
@@ -23,7 +21,6 @@ npm-debug.log*
 .DS_Store
 
 # IDE
-.vscode/
 .idea/
 *.swp
 
@@ -31,3 +28,4 @@ npm-debug.log*
 .DS_Store
 Thumbs.db
 *.tsbuildinfo
+config.bat
